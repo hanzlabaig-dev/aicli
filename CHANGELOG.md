@@ -6,7 +6,7 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [1.0.0] — 2025-01-01
+## [1.0.0] — 2026-06-28
 
 ### Added
 - Interactive terminal REPL with tab-completion and command history
