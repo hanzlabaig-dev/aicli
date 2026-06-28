@@ -407,4 +407,4 @@ Please follow the [Conventional Commits](https://www.conventionalcommits.org/) s
 
 ## License
 
-MIT © [TheBitForge](https://github.com/thebitforge)
+MIT © [Hanzla Baig - AICLI](https://github.com/hanzlabaig-dev)
