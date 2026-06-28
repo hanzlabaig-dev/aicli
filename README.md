@@ -4,6 +4,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js->=18.0.0-green)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org)
 [![Tests](https://github.com/thebitforge/aicli/actions/workflows/test.yml/badge.svg)](https://github.com/thebitforge/aicli/actions)
+[![npm](https://img.shields.io/npm/v/@hanzlabaig-dev/aicli)](https://www.npmjs.com/package/@hanzlabaig-dev/aicli)
+[![GitHub](https://img.shields.io/github/stars/hanzlabaig-dev/aicli)](https://github.com/hanzlabaig-dev/aicli)
 
 **A production-quality, terminal-based AI Coding CLI** supporting multiple AI providers with a beautiful interactive interface, file operations, Git integration, GitHub integration, and project-aware code assistance.
 
