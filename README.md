@@ -33,6 +33,10 @@
 ```bash
 npm install -g aicli
 ```
+OR
+```bash
+npm install -g @hanzlabaig-dev/aicli
+```
 
 ### From source
 
